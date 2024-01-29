@@ -1,0 +1,11 @@
+(define/contract (find-peaks mountain)
+  (-> (listof exact-integer?) (listof exact-integer?))
+  (let loop ([i 1]
+             [result '()])
+    (if (< i (- (length mountain) 1))
+        (loop (+ i 1)
+              (if (and (> (list-ref mountain i) (list-ref mountain (- i 1)))
+                       (> (list-ref mountain i) (list-ref mountain (+ i 1))))
+                  (cons i result)
+                  result))
+        (reverse result))))
