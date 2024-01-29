@@ -1,0 +1,17 @@
+(define/contract (nth-ugly-number n)
+  (-> exact-integer? exact-integer?)
+  (define res (make-vector n 1))
+  (define a 0)
+  (define b 0)
+  (define c 0)
+  
+  (for ((i (in-range 1 n)))
+    (define n2 (* (vector-ref res a) 2))
+    (define n3 (* (vector-ref res b) 3))
+    (define n5 (* (vector-ref res c) 5))
+    (vector-set! res i (min n2 n3 n5))
+    (when (= (vector-ref res i) n2) (set! a (add1 a)))
+    (when (= (vector-ref res i) n3) (set! b (add1 b)))
+    (when (= (vector-ref res i) n5) (set! c (add1 c))))
+  
+  (vector-ref res (sub1 n)))
