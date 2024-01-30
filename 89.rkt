@@ -1,0 +1,5 @@
+(define/contract (gray-code n)
+  (-> exact-integer? (listof exact-integer?))
+  (let ([num-elements (expt 2 n)])
+    (for/list ([i (in-range num-elements)])
+      (bitwise-xor (arithmetic-shift i -1) i))))

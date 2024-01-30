@@ -1,0 +1,8 @@
+(define/contract (distribute-candies n limit)
+  (-> exact-integer? exact-integer? exact-integer?)
+  (let ([ans 0])
+    (for ([x (in-range 0 (add1 (min n limit)))])
+      (for ([y (in-range 0 (add1 (min (- n x) limit)))])
+        (when (<= (- n x y) limit)
+          (set! ans (add1 ans)))))
+    ans))
