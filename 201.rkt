@@ -1,0 +1,8 @@
+(define/contract (range-bitwise-and left right)
+  (-> exact-integer? exact-integer? exact-integer?)
+  (let loop ([m left] [n right] [t 0])
+    (if (< m n)
+        (loop (arithmetic-shift m -1)
+              (arithmetic-shift n -1)
+              (+ t 1))
+        (arithmetic-shift m t))))
