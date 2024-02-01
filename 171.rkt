@@ -1,0 +1,10 @@
+(define/contract (title-to-number columnTitle)
+  (-> string? exact-integer?)
+  (let ([n (string-length columnTitle)])
+    (let loop ([idx 0] [res 0])
+      (if (= idx n)
+          res
+          (let ([ch (string-ref columnTitle (- n idx 1))])
+            (loop (+ idx 1)
+                  (+ res (* (+ (- (char->integer ch) (char->integer #\A)) 1) 
+                            (expt 26 idx)))))))))
