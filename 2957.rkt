@@ -1,0 +1,10 @@
+(define/contract (remove-almost-equal-characters word)
+  (-> string? exact-integer?)
+  (let loop ([i 1] [n (string-length word)] [ans 0])
+    (if (>= i n)
+        ans
+        (if (<= (abs (- (char->integer (string-ref word (- i 1)))
+                        (char->integer (string-ref word i))))
+                1)
+            (loop (+ i 2) n (+ ans 1))
+            (loop (+ i 1) n ans)))))

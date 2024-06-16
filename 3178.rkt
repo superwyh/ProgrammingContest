@@ -1,0 +1,6 @@
+(define/contract (number-of-child n k)
+  (-> exact-integer? exact-integer? exact-integer?)
+  (define-values (q t) (quotient/remainder k (- n 1)))
+  (if (odd? q)
+      (- n t 1)
+      t))
