@@ -1,0 +1,13 @@
+(require racket/list)
+
+(define/contract (total-hamming-distance nums)
+  (-> (listof exact-integer?) exact-integer?)
+  (let* ((n (length nums))
+         (ans 0))
+    (for ([i (in-range 32)])
+      (let* ((mask (arithmetic-shift 1 i))
+             (m 0))
+        (for ([num nums])
+          (set! m (+ m (if (> (bitwise-and num mask) 0) 1 0))))
+        (set! ans (+ ans (* (- n m) m)))))
+    ans))
