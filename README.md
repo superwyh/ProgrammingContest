@@ -2,7 +2,7 @@
 
 | Contest | Count |
 | --- | --- |
-| Codeforce | 19 |
+| Codeforce | 22 |
 | Leetcode(C#) | 71 |
 | Leetcode(Python) | 7 |
 | Leetcode(Racket) | 137 |
@@ -12,6 +12,8 @@
 
 | Contest | Problem | Language |
 | --- | --- | --- |
+| Codeforce | [1A - Theatre Square.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1A%20-%20Theatre%20Square.py) | Python |
+| Codeforce | [1B - Spreadsheet.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1B%20-%20Spreadsheet.py) | Python |
 | Codeforce | [50A - Domino piling.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/50A%20-%20Domino%20piling.py) | Python |
 | Codeforce | [103B - Cthulhu.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/103B%20-%20Cthulhu.py) | Python |
 | Codeforce | [106A - Card Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/106A%20-%20Card%20Game.py) | Python |
@@ -26,6 +28,7 @@
 | Codeforce | [1400A - String Similarity.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1400A%20-%20String%20Similarity.py) | Python |
 | Codeforce | [1419A - Digit Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1419A%20-%20Digit%20Game.py) | Python |
 | Codeforce | [1690D - Black and White Stripe.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1690D%20-%20Black%20and%20White%20Stripe.py) | Python |
+| Codeforce | [1722C - Word Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1722C%20-%20Word%20Game.py) | Python |
 | Codeforce | [1722D - Line.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1722D%20-%20Line.py) | Python |
 | Codeforce | [1777A - Everybody Likes Good Arrays!.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1777A%20-%20Everybody%20Likes%20Good%20Arrays%21.py) | Python |
 | Codeforce | [1777B - Emordnilap.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1777B%20-%20Emordnilap.py) | Python |
