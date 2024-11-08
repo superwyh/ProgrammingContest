@@ -1,4 +1,4 @@
-| 比赛网站 | 题目名称 | 使用语言 |
+| Contest | Problem | Language |
 | --- | --- | --- |
 | Codeforce | [50A - Domino piling.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/50A%20-%20Domino%20piling.py) | Python |
 | Codeforce | [103B - Cthulhu.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/103B%20-%20Cthulhu.py) | Python |
