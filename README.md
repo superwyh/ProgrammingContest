@@ -1,3 +1,15 @@
+## Solution Counts
+
+| Contest | Count |
+| --- | --- |
+| Codeforce | 19 |
+| Leetcode(C#) | 71 |
+| Leetcode(Python) | 2 |
+| Leetcode(Racket) | 137 |
+| Project-Euler | 20 |
+
+## Solutions
+
 | Contest | Problem | Language |
 | --- | --- | --- |
 | Codeforce | [50A - Domino piling.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/50A%20-%20Domino%20piling.py) | Python |
