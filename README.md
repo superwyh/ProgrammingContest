@@ -2,7 +2,7 @@
 
 | Contest | Count |
 | --- | --- |
-| Codeforce | 22 |
+| Codeforces | 23 |
 | Leetcode(C#) | 71 |
 | Leetcode(Python) | 7 |
 | Leetcode(Racket) | 137 |
@@ -12,28 +12,29 @@
 
 | Contest | Problem | Language |
 | --- | --- | --- |
-| Codeforce | [1A - Theatre Square.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1A%20-%20Theatre%20Square.py) | Python |
-| Codeforce | [1B - Spreadsheet.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1B%20-%20Spreadsheet.py) | Python |
-| Codeforce | [50A - Domino piling.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/50A%20-%20Domino%20piling.py) | Python |
-| Codeforce | [103B - Cthulhu.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/103B%20-%20Cthulhu.py) | Python |
-| Codeforce | [106A - Card Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/106A%20-%20Card%20Game.py) | Python |
-| Codeforce | [110A - Nearly Lucky Number.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/110A%20-%20Nearly%20Lucky%20Number.py) | Python |
-| Codeforce | [119A - Epic Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/119A%20-%20Epic%20Game.py) | Python |
-| Codeforce | [122A - Lucky Division.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/122A%20-%20Lucky%20Division.py) | Python |
-| Codeforce | [133A - HQ9+.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/133A%20-%20HQ9%2B.py) | Python |
-| Codeforce | [141A - Amusing Joke.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/141A%20-%20Amusing%20Joke.py) | Python |
-| Codeforce | [158A - Next Round.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/158A%20-%20Next%20Round.py) | Python |
-| Codeforce | [1080B - Margarite and the best present.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1080B%20-%20Margarite%20and%20the%20best%20present.py) | Python |
-| Codeforce | [1325B - CopyCopyCopyCopyCopy.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1325B%20-%20CopyCopyCopyCopyCopy.py) | Python |
-| Codeforce | [1400A - String Similarity.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1400A%20-%20String%20Similarity.py) | Python |
-| Codeforce | [1419A - Digit Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1419A%20-%20Digit%20Game.py) | Python |
-| Codeforce | [1690D - Black and White Stripe.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1690D%20-%20Black%20and%20White%20Stripe.py) | Python |
-| Codeforce | [1722C - Word Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1722C%20-%20Word%20Game.py) | Python |
-| Codeforce | [1722D - Line.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1722D%20-%20Line.py) | Python |
-| Codeforce | [1777A - Everybody Likes Good Arrays!.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1777A%20-%20Everybody%20Likes%20Good%20Arrays%21.py) | Python |
-| Codeforce | [1777B - Emordnilap.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1777B%20-%20Emordnilap.py) | Python |
-| Codeforce | [1912L - LOL Lovers.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1912L%20-%20LOL%20Lovers.py) | Python |
-| Codeforce | [1916A - 2023.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforce/1916A%20-%202023.py) | Python |
+| Codeforces | [1A - Theatre Square.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1A%20-%20Theatre%20Square.py) | Python |
+| Codeforces | [1B - Spreadsheet.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1B%20-%20Spreadsheet.py) | Python |
+| Codeforces | [50A - Domino piling.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/50A%20-%20Domino%20piling.py) | Python |
+| Codeforces | [103B - Cthulhu.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/103B%20-%20Cthulhu.py) | Python |
+| Codeforces | [106A - Card Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/106A%20-%20Card%20Game.py) | Python |
+| Codeforces | [110A - Nearly Lucky Number.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/110A%20-%20Nearly%20Lucky%20Number.py) | Python |
+| Codeforces | [119A - Epic Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/119A%20-%20Epic%20Game.py) | Python |
+| Codeforces | [122A - Lucky Division.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/122A%20-%20Lucky%20Division.py) | Python |
+| Codeforces | [133A - HQ9+.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/133A%20-%20HQ9%2B.py) | Python |
+| Codeforces | [141A - Amusing Joke.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/141A%20-%20Amusing%20Joke.py) | Python |
+| Codeforces | [158A - Next Round.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/158A%20-%20Next%20Round.py) | Python |
+| Codeforces | [1080B - Margarite and the best present.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1080B%20-%20Margarite%20and%20the%20best%20present.py) | Python |
+| Codeforces | [1325B - CopyCopyCopyCopyCopy.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1325B%20-%20CopyCopyCopyCopyCopy.py) | Python |
+| Codeforces | [1400A - String Similarity.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1400A%20-%20String%20Similarity.py) | Python |
+| Codeforces | [1419A - Digit Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1419A%20-%20Digit%20Game.py) | Python |
+| Codeforces | [1690D - Black and White Stripe.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1690D%20-%20Black%20and%20White%20Stripe.py) | Python |
+| Codeforces | [1722C - Word Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1722C%20-%20Word%20Game.py) | Python |
+| Codeforces | [1722D - Line.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1722D%20-%20Line.py) | Python |
+| Codeforces | [1777A - Everybody Likes Good Arrays!.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1777A%20-%20Everybody%20Likes%20Good%20Arrays%21.py) | Python |
+| Codeforces | [1777B - Emordnilap.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1777B%20-%20Emordnilap.py) | Python |
+| Codeforces | [1912L - LOL Lovers.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1912L%20-%20LOL%20Lovers.py) | Python |
+| Codeforces | [1916A - 2023.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1916A%20-%202023.py) | Python |
+| Codeforces | [Status - Codeforces.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/Status%20-%20Codeforces.py) | Python |
 | Leetcode(C#) | [1.两数之和.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cs) | C# |
 | Leetcode(C#) | [2.两数相加.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/2.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.cs) | C# |
 | Leetcode(C#) | [3.无重复字符的最长子串.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.cs) | C# |
