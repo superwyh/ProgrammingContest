@@ -1,0 +1,13 @@
+(require racket/contract)
+(require racket/list)
+
+(define/contract (can-make-square grid)
+  (-> (listof (listof char?)) boolean?)
+  (define (check i j)
+    (define cnt (make-hash))
+    (hash-set! cnt (list-ref (list-ref grid i) j) (add1 (hash-ref cnt (list-ref (list-ref grid i) j) 0)))
+    (hash-set! cnt (list-ref (list-ref grid i) (+ j 1)) (add1 (hash-ref cnt (list-ref (list-ref grid i) (+ j 1)) 0)))
+    (hash-set! cnt (list-ref (list-ref grid (+ i 1)) j) (add1 (hash-ref cnt (list-ref (list-ref grid (+ i 1)) j) 0)))
+    (hash-set! cnt (list-ref (list-ref grid (+ i 1)) (+ j 1)) (add1 (hash-ref cnt (list-ref (list-ref grid (+ i 1)) (+ j 1)) 0)))
+    (not (= (hash-ref cnt #\B 0) 2)))
+  (or (check 0 0) (check 0 1) (check 1 0) (check 1 1)))

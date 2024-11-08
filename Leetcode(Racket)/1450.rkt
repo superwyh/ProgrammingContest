@@ -1,0 +1,7 @@
+(define/contract (busy-student startTime endTime queryTime)
+  (-> (listof exact-integer?) (listof exact-integer?) exact-integer? exact-integer?)
+  (define count 0)
+  (for ([s startTime] [e endTime])
+    (when (and (<= s queryTime) (<= queryTime e))
+      (set! count (+ count 1))))
+  count)
