@@ -4,7 +4,7 @@
 | --- | --- |
 | Codeforce | 19 |
 | Leetcode(C#) | 71 |
-| Leetcode(Python) | 2 |
+| Leetcode(Python) | 7 |
 | Leetcode(Racket) | 137 |
 | Project-Euler | 20 |
 
@@ -102,6 +102,11 @@
 | Leetcode(C#) | [1504.统计全-1-子矩形.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/1504.%E7%BB%9F%E8%AE%A1%E5%85%A8-1-%E5%AD%90%E7%9F%A9%E5%BD%A2.cs) | C# |
 | Leetcode(C#) | [1518.换水问题.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/1518.%E6%8D%A2%E6%B0%B4%E9%97%AE%E9%A2%98.cs) | C# |
 | Leetcode(C#) | [1929.数组串联.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/1929.%E6%95%B0%E7%BB%84%E4%B8%B2%E8%81%94.cs) | C# |
+| Leetcode(Python) | [15.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/15.py) | Python |
+| Leetcode(Python) | [135.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/135.py) | Python |
+| Leetcode(Python) | [219.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/219.py) | Python |
+| Leetcode(Python) | [220.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/220.py) | Python |
+| Leetcode(Python) | [327.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/327.py) | Python |
 | Leetcode(Python) | [3340.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/3340.py) | Python |
 | Leetcode(Python) | [3341.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/3341.py) | Python |
 | Leetcode(Racket) | [1.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/1.rkt) | Racket |
