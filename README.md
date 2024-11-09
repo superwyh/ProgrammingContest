@@ -5,7 +5,7 @@
 | Codeforces | 31 |
 | Leetcode(C#) | 71 |
 | Leetcode(Python) | 7 |
-| Leetcode(Racket) | 137 |
+| Leetcode(Racket) | 139 |
 | Project-Euler | 20 |
 
 ## Solutions
@@ -127,6 +127,8 @@
 | Leetcode(Racket) | [11.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/11.rkt) | Racket |
 | Leetcode(Racket) | [16.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/16.rkt) | Racket |
 | Leetcode(Racket) | [17.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/17.rkt) | Racket |
+| Leetcode(Racket) | [19.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/19.rkt) | Racket |
+| Leetcode(Racket) | [21.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/21.rkt) | Racket |
 | Leetcode(Racket) | [29.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/29.rkt) | Racket |
 | Leetcode(Racket) | [39.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/39.rkt) | Racket |
 | Leetcode(Racket) | [40.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/40.rkt) | Racket |
