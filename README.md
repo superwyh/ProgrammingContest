@@ -7,6 +7,7 @@
 | Leetcode(Python) | 7 |
 | Leetcode(Racket) | 139 |
 | Project-Euler | 20 |
+| CSSBattle | 1 |
 
 ## Solutions
 
@@ -280,3 +281,4 @@
 | Project-Euler | [18.py](https://github.com/superwyh/ProgrammingContest/blob/main/Project-Euler/18.py) | Python |
 | Project-Euler | [19.py](https://github.com/superwyh/ProgrammingContest/blob/main/Project-Euler/19.py) | Python |
 | Project-Euler | [20.py](https://github.com/superwyh/ProgrammingContest/blob/main/Project-Euler/20.py) | Python |
+| CSSBattle | [175 . Evil Cat.html](https://github.com/superwyh/ProgrammingContest/blob/main/CSSBattle/175%20.%20Evil%20Cat.html) | HTML/CSS |
