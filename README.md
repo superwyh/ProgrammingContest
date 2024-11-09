@@ -2,7 +2,7 @@
 
 | Contest | Count |
 | --- | --- |
-| Codeforces | 23 |
+| Codeforces | 31 |
 | Leetcode(C#) | 71 |
 | Leetcode(Python) | 7 |
 | Leetcode(Racket) | 137 |
@@ -32,6 +32,14 @@
 | Codeforces | [1722D - Line.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1722D%20-%20Line.py) | Python |
 | Codeforces | [1777A - Everybody Likes Good Arrays!.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1777A%20-%20Everybody%20Likes%20Good%20Arrays%21.py) | Python |
 | Codeforces | [1777B - Emordnilap.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1777B%20-%20Emordnilap.py) | Python |
+| Codeforces | [1791A - Codeforces Checking.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791A%20-%20Codeforces%20Checking.py) | Python |
+| Codeforces | [1791B - Following Directions.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791B%20-%20Following%20Directions.py) | Python |
+| Codeforces | [1791C - Prepend and Append.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791C%20-%20Prepend%20and%20Append.py) | Python |
+| Codeforces | [1791D - Distinct Split.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791D%20-%20Distinct%20Split.py) | Python |
+| Codeforces | [1791E - Negatives and Positives.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791E%20-%20Negatives%20and%20Positives.py) | Python |
+| Codeforces | [1791F - Range Update Point Query.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791F%20-%20Range%20Update%20Point%20Query.py) | Python |
+| Codeforces | [1791G1 - Teleporters (Easy Version).py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791G1%20-%20Teleporters%20%28Easy%20Version%29.py) | Python |
+| Codeforces | [1791G2 - Teleporters (Hard Version).py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1791G2%20-%20Teleporters%20%28Hard%20Version%29.py) | Python |
 | Codeforces | [1912L - LOL Lovers.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1912L%20-%20LOL%20Lovers.py) | Python |
 | Codeforces | [1916A - 2023.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1916A%20-%202023.py) | Python |
 | Codeforces | [Status - Codeforces.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/Status%20-%20Codeforces.py) | Python |
