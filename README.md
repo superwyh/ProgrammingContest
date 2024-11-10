@@ -2,12 +2,12 @@
 
 | Contest | Count |
 | --- | --- |
-| Codeforces | 31 |
+| Codeforces | 36 |
 | Leetcode(C#) | 71 |
-| Leetcode(Python) | 7 |
-| Leetcode(Racket) | 139 |
+| Leetcode(Python) | 10 |
+| Leetcode(Racket) | 141 |
 | Project-Euler | 20 |
-| CSSBattle | 1 |
+| CSSBattle | 2 |
 
 ## Solutions
 
@@ -15,19 +15,24 @@
 | --- | --- | --- |
 | Codeforces | [1A - Theatre Square.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1A%20-%20Theatre%20Square.py) | Python |
 | Codeforces | [1B - Spreadsheet.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1B%20-%20Spreadsheet.py) | Python |
+| Codeforces | [26A - Almost Prime.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/26A%20-%20Almost%20Prime.py) | Python |
 | Codeforces | [50A - Domino piling.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/50A%20-%20Domino%20piling.py) | Python |
 | Codeforces | [103B - Cthulhu.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/103B%20-%20Cthulhu.py) | Python |
 | Codeforces | [106A - Card Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/106A%20-%20Card%20Game.py) | Python |
 | Codeforces | [110A - Nearly Lucky Number.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/110A%20-%20Nearly%20Lucky%20Number.py) | Python |
+| Codeforces | [118A - String Task.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/118A%20-%20String%20Task.py) | Python |
 | Codeforces | [119A - Epic Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/119A%20-%20Epic%20Game.py) | Python |
 | Codeforces | [122A - Lucky Division.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/122A%20-%20Lucky%20Division.py) | Python |
 | Codeforces | [133A - HQ9+.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/133A%20-%20HQ9%2B.py) | Python |
+| Codeforces | [136A - Presents.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/136A%20-%20Presents.py) | Python |
 | Codeforces | [141A - Amusing Joke.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/141A%20-%20Amusing%20Joke.py) | Python |
 | Codeforces | [158A - Next Round.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/158A%20-%20Next%20Round.py) | Python |
 | Codeforces | [1080B - Margarite and the best present.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1080B%20-%20Margarite%20and%20the%20best%20present.py) | Python |
 | Codeforces | [1325B - CopyCopyCopyCopyCopy.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1325B%20-%20CopyCopyCopyCopyCopy.py) | Python |
 | Codeforces | [1400A - String Similarity.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1400A%20-%20String%20Similarity.py) | Python |
 | Codeforces | [1419A - Digit Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1419A%20-%20Digit%20Game.py) | Python |
+| Codeforces | [1602A - Two Subsequences.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1602A%20-%20Two%20Subsequences.py) | Python |
+| Codeforces | [1602B - Divine Array.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1602B%20-%20Divine%20Array.py) | Python |
 | Codeforces | [1690D - Black and White Stripe.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1690D%20-%20Black%20and%20White%20Stripe.py) | Python |
 | Codeforces | [1722C - Word Game.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1722C%20-%20Word%20Game.py) | Python |
 | Codeforces | [1722D - Line.py](https://github.com/superwyh/ProgrammingContest/blob/main/Codeforces/1722D%20-%20Line.py) | Python |
@@ -116,6 +121,9 @@
 | Leetcode(C#) | [1518.换水问题.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/1518.%E6%8D%A2%E6%B0%B4%E9%97%AE%E9%A2%98.cs) | C# |
 | Leetcode(C#) | [1929.数组串联.cs](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28C%23%29/1929.%E6%95%B0%E7%BB%84%E4%B8%B2%E8%81%94.cs) | C# |
 | Leetcode(Python) | [15.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/15.py) | Python |
+| Leetcode(Python) | [18.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/18.py) | Python |
+| Leetcode(Python) | [22.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/22.py) | Python |
+| Leetcode(Python) | [25.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/25.py) | Python |
 | Leetcode(Python) | [135.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/135.py) | Python |
 | Leetcode(Python) | [219.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/219.py) | Python |
 | Leetcode(Python) | [220.py](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Python%29/220.py) | Python |
@@ -130,6 +138,8 @@
 | Leetcode(Racket) | [17.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/17.rkt) | Racket |
 | Leetcode(Racket) | [19.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/19.rkt) | Racket |
 | Leetcode(Racket) | [21.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/21.rkt) | Racket |
+| Leetcode(Racket) | [23.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/23.rkt) | Racket |
+| Leetcode(Racket) | [24.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/24.rkt) | Racket |
 | Leetcode(Racket) | [29.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/29.rkt) | Racket |
 | Leetcode(Racket) | [39.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/39.rkt) | Racket |
 | Leetcode(Racket) | [40.rkt](https://github.com/superwyh/ProgrammingContest/blob/main/Leetcode%28Racket%29/40.rkt) | Racket |
@@ -281,4 +291,5 @@
 | Project-Euler | [18.py](https://github.com/superwyh/ProgrammingContest/blob/main/Project-Euler/18.py) | Python |
 | Project-Euler | [19.py](https://github.com/superwyh/ProgrammingContest/blob/main/Project-Euler/19.py) | Python |
 | Project-Euler | [20.py](https://github.com/superwyh/ProgrammingContest/blob/main/Project-Euler/20.py) | Python |
+| CSSBattle | [95 . Pokeball.html](https://github.com/superwyh/ProgrammingContest/blob/main/CSSBattle/95%20.%20Pokeball.html) | HTML/CSS |
 | CSSBattle | [175 . Evil Cat.html](https://github.com/superwyh/ProgrammingContest/blob/main/CSSBattle/175%20.%20Evil%20Cat.html) | HTML/CSS |
